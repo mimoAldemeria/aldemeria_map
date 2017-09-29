@@ -14,3 +14,7 @@ Either download the leaflet.js library from http://cdn.leafletjs.com/leaflet/v1.
 
 The most up to date maps are available in the 'image_resources' folder, use these for development but keep in mind the images will be hosted on Imgur in the release version.
 
+### Leaflet Resources
+
+Check out http://leafletjs.com/examples.html for a bunch of tutorials on the leaflet library, for this project we will most likely be focusing on the non-geographical map, so check out this tutorial specfically: http://leafletjs.com/examples/crs-simple/crs-simple.html
+
