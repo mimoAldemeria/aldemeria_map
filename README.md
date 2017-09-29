@@ -1,4 +1,4 @@
-# aldemeria_map
+# Aldemeria Interactive Map
 Interactive game map using the Leaflet JavaScript library for aldemeria.com
 
 ### For Contributors
